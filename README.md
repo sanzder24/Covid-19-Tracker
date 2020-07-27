@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ ## Link to the Firebase Depoloyement 
+ https://covid-19-tracker-3f046.web.app/
+
+
 
 ## Available Scripts
 
