@@ -1,6 +1,6 @@
  ## Link to the Firebase Depoloyement 
  https://covid-19-tracker-3f046.web.app/
-
+![Cvd 19](https://user-images.githubusercontent.com/54637394/88584713-12227380-d020-11ea-8445-1cc1a4438c5e.JPG)
 
 
 ## Available Scripts
